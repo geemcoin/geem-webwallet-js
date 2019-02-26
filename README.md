@@ -30,7 +30,7 @@ Translations:
 - You can help Geem by translation the wallet in your native language, it's really easy!  
 Read [the translations guide](TRANSLATIONS.md) to get instructions on how to do that
 - Report bugs & ideas to help us improve the web wallet by opening an issue 
-- [Make a donation to Masari](https://webwallet.geem.io/#!donate)
+- [Support Geem](https://webwallet.geem.io/#!donate)
 
 # Forks / Other Coins
 We have been receiving multiple coin developers help to fork it. As the time required to develop this project is heavy, please consider giving a mention to this project if you fork it.
