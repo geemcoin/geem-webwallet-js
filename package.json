@@ -1,0 +1,21 @@
+{
+  "name": "geemwebwallet",
+  "version": "1.0.0",
+  "description": "Fully client side web wallet for Geem",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^2.9.2",
+    "workbox-build": "^3.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geemcoin/geem-webwallet-js.git"
+  },
+  "author": "Gnock",
+  "license": "BSD-3",
+  "bugs": {
+    "url": "https://github.com/gnock/masari-webwallet/issues"
+  },
+  "homepage": "https://github.com/geemcoin/geem-webwallet-js#readme"
+}
